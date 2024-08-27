@@ -1,6 +1,6 @@
 # MeD - Data Science
 
-## Grupo 1: Renata Costa, Leila, Marielle e Samara 
+## Grupo 1: Renata Costa, Leila Moreira, Marielle Miziara e Samara Lima 
 
 ### Sobre o Projeto
 Este projeto foi criado durante o workshop ministrado por Teo Me Why, em parceria com Mulheres em Dados. O objetivo principal é desenvolver um modelo de machine learning para analisar a probabilidade de churn entre os usuários do canal Teo Me Why.
