@@ -1,4 +1,4 @@
-# MeD_Data_Science
+# MeD - Data Science
 
 ## Grupo 1: Renata Costa, Leila, Marielle e Samara 
 
