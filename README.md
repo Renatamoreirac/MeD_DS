@@ -14,7 +14,7 @@ Criar e implementar um modelo de machine learning que preveja a probabilidade de
 ### O que foi feito:
 
 1. **Criação das Tabelas SQL para Feature Store:**
-   - Tabelas criadas: `lr_pontos` e `lr_transacoes`.
+   - Tabelas criadas: `lr_fs_pontos` e `lr_fs_transacoes`.
 
 2. **Notebook Feature Store:**
    - Notebook criado: `Feature_Store_Notebook` para gerar as feature stores no schema `sandbox.med` no DataBricks.
@@ -46,6 +46,7 @@ Criar e implementar um modelo de machine learning que preveja a probabilidade de
 
 4. **Treinamento do Modelo:**
    - Processo de treinamento realizado utilizando a metodologia SEMMA.
+   - Treinado e testado nosso modelo usando árvore de decisão, random forest e adaboost
    - Documentação completa no notebook `Treinamento_ML`.
 
 5. **Criação da Pipeline de Machine Learning:**
