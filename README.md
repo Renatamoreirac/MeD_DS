@@ -47,7 +47,7 @@ Criar e implementar um modelo de machine learning que preveja a probabilidade de
 4. **Treinamento do Modelo:**
    - Processo de treinamento realizado utilizando a metodologia SEMMA.
    - Treinado e testado nosso modelo usando árvore de decisão, random forest e adaboost
-   - Documentação completa no notebook `Treinamento_ML`.
+   - Documentação completa no arquivo em html `Treinamento_ML`.
 
 5. **Criação da Pipeline de Machine Learning:**
    - Notebook criado: `Pipeline`.
