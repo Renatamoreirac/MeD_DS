@@ -47,18 +47,19 @@ Criar e implementar um modelo de machine learning que preveja a probabilidade de
 4. **Treinamento do Modelo:**
    - Processo de treinamento realizado utilizando a metodologia SEMMA.
    - Treinado e testado nosso modelo usando árvore de decisão, random forest e adaboost
-   - Documentação completa no arquivo em html `Treinamento_ML`.
+   - Documentação completa no arquivo em html `Treinamento_ML`. (obs: realizar download para visualizar no browser)
 
 5. **Criação da Pipeline de Machine Learning:**
-   - Notebook criado: `Pipeline`.
+   - Notebook criado: `Pipeline`. (obs: realizar download para visualizar no browser)
    - Definição e implementação do modelo de machine learning.
 
 6. **Predição e Análise dos Resultados:**
    - Resultado final inclui a probabilidade de churn e análise dos dados.
+   - Resultado pode ser visualizado no arquivo Predição.html (obs: realizar download para visualizar no browser)
 
 ### Como Utilizar
 - **Ambiente:** DataBricks.
-- **Passos:** Execute os notebooks na ordem indicada para recriar o ambiente, treinar o modelo e realizar predições.
+- **Passos:** Execute os notebooks na ordem indicada para recriar o ambiente, treinar o modelo e realizar predições.(necessário verificação de acesso às tabelas no databricks)
 
 ### Agradecimentos
 Agradecemos ao Teo Me Why e à comunidade Mulheres em Dados pelo suporte e colaboração durante o workshop.
